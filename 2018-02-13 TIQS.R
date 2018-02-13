@@ -102,3 +102,5 @@ heatmaply(sqrt(catch), Rowv=NULL,
 # Leaflet - http://rstudio.github.io/leaflet/
 # Heatmaply -
 #   https://cran.r-project.org/web/packages/heatmaply/vignettes/heatmaply.html
+# This presentation -
+#   https://rawgit.com/JVAdams/QFC/master/2018-02-13%20TIQS%20Pres.html
