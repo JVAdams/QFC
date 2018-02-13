@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3974675415",
+    "hash" : "65604209",
     "id" : "6B545C5B",
-    "lastKnownWriteTime" : 1518527467,
-    "last_content_update" : 1518527467,
+    "lastKnownWriteTime" : 1518531692,
+    "last_content_update" : 1518531692980,
     "path" : "C:/JVA/GitHub/QFC/2018-02-13 TIQS Pres.Rpres",
     "project_path" : "2018-02-13 TIQS Pres.Rpres",
     "properties" : {
+        "cursorPosition" : "153,4",
+        "scrollLine" : "148"
     },
     "relative_order" : 3,
     "source_on_save" : false,
