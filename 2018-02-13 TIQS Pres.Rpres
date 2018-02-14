@@ -36,7 +36,7 @@ install.packages(c(
   "plotly",
   "leaflet",
   "heatmaply"
-)
+))
 ```
 
 Read in the data
